@@ -1,0 +1,5 @@
+.env
+llm_logs/
+node_modules/
+combined_log
+error_log

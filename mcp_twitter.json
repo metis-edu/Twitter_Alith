@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+      "agent-twitter-client-mcp": {
+        "command": "npx",
+        "args": ["-y", "agent-twitter-client-mcp"],
+        "env": {
+          "AUTH_METHOD": "credentials",
+          "TWITTER_USERNAME": "pablios3010",
+          "TWITTER_PASSWORD": "Nidhi#3010",
+          "TWITTER_EMAIL": "nidhi.n@metis.io"
+        }
+      }
+    }
+  }
